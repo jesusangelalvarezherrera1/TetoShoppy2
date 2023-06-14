@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715823857514",
+    "project_id": "tetoshoppy-33435",
+    "storage_bucket": "tetoshoppy-33435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715823857514:android:dcbe9c9efdfa1bfe9f2f13",
+        "android_client_info": {
+          "package_name": "com.example.tetoshoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715823857514-d7vm528vsp8dm8sq6rcv0a4fnhhssjel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAad-DIQvPinlbp5jNLfULr6N162WtIUb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715823857514-d7vm528vsp8dm8sq6rcv0a4fnhhssjel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
